@@ -1,0 +1,39 @@
+.ticket{
+    padding:3.125rem;
+    background: linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+}
+
+.heading{
+    color: white;
+    font-size: 3.125rem;
+    margin-bottom: 12px;
+    text-shadow: 2px 2px 1px grey;
+    font-weight: 800;
+}
+
+.box{
+    box-shadow: 5px 5px 2px whitesmoke;
+}
+
+.box:hover{
+    background-color:cornflowerblue;
+    transition: cubic-bezier(0.215,0.610,0.355,1);;
+    transform: scale(1.05);
+}
+
+.label{
+    color: white;
+    margin-bottom: 2px;
+    font-size: 1.255rem;
+    margin-right: 2px;
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.form-control{
+    width: 40%;
+    /* margin-left: 23rem; */
+}
