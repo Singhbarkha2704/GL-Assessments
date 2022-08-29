@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "935ee1ec-ec5e-4475-8c8b-f57566585acc",
+      "username": "John",
+      "email": "john@gmail.com",
+      "password": "john@1234",
+      "role": "user"
+    },
+    {
+      "id": "935ee1ec-ec5e-4475-8c8b-f57566585abb",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin@1234",
+      "role": "admin"
+    },
+    {
+      "id": "e5fd9223-31cf-4ed0-a4b7-602633adee7a",
+      "username": "User",
+      "email": "user@gmail.com",
+      "password": "user@1234",
+      "role": "user"
+    },
+    {
+      "id": "551d2d31-bcdd-49e1-a000-846a4afdd4f6",
+      "username": "Barkha",
+      "email": "barkha@gmail.com",
+      "password": "barkha@1234",
+      "role": "user"
+    },
+    {
+      "id": "71951e9e-749e-43d5-8899-3c3f17bc5708",
+      "username": "Myra",
+      "email": "myra@gmail.com",
+      "password": "myra@1234",
+      "role": "user"
+    },
+    {
+      "id": "008cd665-1d28-4ddf-8796-8fdf3e4daf52",
+      "username": "Peter",
+      "email": "peter@gmail.com",
+      "password": "peter@1234",
+      "role": "user"
+    },
+    {
+      "id": "3578158c-7ec6-403b-9110-68171a2b54a1",
+      "username": "Siya",
+      "email": "siya@gmail.com",
+      "password": "siya",
+      "role": "user"
+    },
+    {
+      "id": "ef7dcd80-4ae1-4062-900b-7d277e885c1b",
+      "username": "anubha",
+      "email": "anubha@gmail.com",
+      "password": "",
+      "role": "user"
+    },
+    {
+      "id": "7788fd34-0a3d-4993-9544-7d30697760f8",
+      "username": "anubha",
+      "email": "anubha@gmail.com",
+      "password": "anubha@gma",
+      "role": "user"
+    },
+    {
+      "id": "9e6ef62f-a4e5-49e7-84e9-5db09bc2301e",
+      "username": "kiara",
+      "email": "kiara@gmail.com",
+      "password": "kiara@123",
+      "role": "user"
+    },
+    {
+      "id": "656fe115-fef0-4faa-a7e4-54286b5f7177",
+      "username": "neel",
+      "email": "neel@gmail.com",
+      "password": "neel@1234",
+      "role": "admin"
+    },
+    {
+      "id": "2b07cf4a-2397-4610-86e8-b188611e8f75",
+      "username": "Kiya",
+      "email": "kiya@gmail.com",
+      "password": "kiya@1234",
+      "role": "admin"
+    },
+    {
+      "id": "f458778a-cbe4-4a38-bb32-05d076529dfc",
+      "username": "jerry",
+      "email": "jerry@gmail.com",
+      "password": "jerry@123",
+      "role": "admin"
+    },
+    {
+      "id": "43670c1c-120f-4a0b-a3f9-6a4979616adc",
+      "username": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "kiag23",
+      "role": "user"
+    }
+  ]
+}

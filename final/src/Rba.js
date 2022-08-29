@@ -1,0 +1,22 @@
+const express=require('express')
+const app=express()
+const bp=require('body-parser')
+const cors=require('cors')
+app.use(cors({origin:'http://localhost:3000',credentials:true}))
+app.use(bp.json())
+const cookie=require('cookie-parser')
+app.use(cookie())
+
+const signup=require('../controllers/SignUpController')
+const login=require('../controllers/LoginController')
+const protected = require('../controllers/ProtectedRoute')
+const getUsers = require('../controllers/GetUsers')
+const logout=require('../controllers/LogoutController')
+
+app.use('/',signup)
+app.use('/',login)
+app.use('/', protected)
+app.use('/', getUsers)
+app.use('/',logout)
+
+app.listen(3001,()=>console.log('server started'))
