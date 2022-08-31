@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "935ee1ec-ec5e-4475-8c8b-f57566585acc",
+      "username": "Karan",
+      "email": "karan@gmail.com",
+      "password": "kiran@123",
+      "role": "user"
+    },
+    {
+      "id": "935ee1ec-ec5e-4475-8c8b-f57566585abb",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin@1234",
+      "role": "admin"
+    },
+    {
+      "id": "e5fd9223-31cf-4ed0-a4b7-602633adee7a",
+      "username": "User",
+      "email": "user@gmail.com",
+      "password": "user@1234",
+      "role": "user"
+    },
+    {
+      "id": "551d2d31-bcdd-49e1-a000-846a4afdd4f6",
+      "username": "Barkha",
+      "email": "barkha@gmail.com",
+      "password": "barkha@1234",
+      "role": "user"
+    },
+    {
+      "id": "71951e9e-749e-43d5-8899-3c3f17bc5708",
+      "username": "Myra",
+      "email": "mayra@gmail.com",
+      "password": "myra@1234",
+      "role": "user"
+    },
+    {
+      "id": "008cd665-1d28-4ddf-8796-8fdf3e4daf52",
+      "username": "Peter",
+      "email": "peter@gmail.com",
+      "password": "peter@1234",
+      "role": "user"
+    },
+    {
+      "id": "8f943d58-ee56-405b-bdd1-b30852b5e9d1",
+      "username": "Siddharth",
+      "email": "siddharth@gmail.com",
+      "password": "sid@123",
+      "role": "admin"
+    },
+    {
+      "id": "36661057-f20e-432d-acb6-156ff4ca237d",
+      "username": "Dora",
+      "email": "dora@gmail.com",
+      "password": "dora@123",
+      "role": "user"
+    }
+  ]
+}
