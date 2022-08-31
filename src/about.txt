@@ -1,0 +1,7 @@
+client is running on PORT 3000
+server is running on PORT 3001
+JSON Server for DB is runnung on PORT 3002
+
+-------------------------
+while login--> cookie is set and token is set to cookie
+while logout--> token is removed from cookie
